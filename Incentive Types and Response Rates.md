@@ -1,5 +1,5 @@
 #Incentive Types and Response Rates
-
+An empirical experiment on the effect of different types of incentives on survey response rates and effort
 * Gopala Stemerding 
 * Joeri Verlinden 601536
 
@@ -28,7 +28,7 @@ To reduce selection bias even further we maintained the same interviewer for eve
 
 
 
-An empirical experiment on the effect of different types of incentives on survey response rates and effort
+
 
 |               | Conditional   | Unconditional  |
 | ------------- |:-------------:| --------------:|
