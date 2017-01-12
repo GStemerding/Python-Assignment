@@ -16,16 +16,19 @@ We conducted a randomized controlled field experiment to discover if an uncondit
 
 As already noted we use four different groups in our experiment. Group A represented the small certain payment group since we asked the respondents if they wanted to fill in our survey for 50 eurocents. Group B represented the large uncertain payment group because we asked the respondents if they wanted to fill in the survey for a chance (2,5%) of winning 20 euro's. Group C represented the conditional group since we asked the respondnets if they wanted to fill in our survey for a chocolate letter. Group D represented the unconditional group since we asked if they wanted a chocolate letter and afterwards, regardless their answer, we asked them if they wanted to fill in our survey. 
 
-To reduce selection bias even further we maintained the same interviewer for every group. Moreover we made sure that no selection bias arised from different places or different days since we contact the control and treatment groups on the same day and based on the part of the library they were sitting. 
+To reduce selection bias even further we maintained the same interviewer for every group. Moreover we made sure that no selection bias arised from different places or different days since we contact the control and treatment groups on the same day and based on the part of the library they were. 
 
 ## _Answer_
+When comparing the conditional with the unconditional group we found, through a Fisher Exact Test a significant p-value of 0.048. This means that an unconditional incentive leads to a higher response rate than a conditional incentive in a one-shot way. Moreover we found that even if people did not want to have the 50 eurocents they still wanted to fill in the survey. This could be explained by the fact of positive reciprocity (misschien hier een paper gebruiken?). 
 
+When comparing the small certain payments with the large uncertain payments we found no statistically significant effect. However when we divided the groups between men and women we found that there is a significantly difference in response rates for women when they receive a small certain payment. This can be explained by the fact that women are more risk averse [Dohmen et al (2005)](http://ftp.iza.org/dp1730.pdf). 
+
+Finally when comparing effort between the groups we did not found a significant effect. However we did find that women exert significantly more effort into answering than men over all groups. 
+
+Misschien hier paper dingen gebruiken? Hoe we het ook in het assignment hebben gedaan?
 
 
  
-
-
-
 
 
 
