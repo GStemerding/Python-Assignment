@@ -27,7 +27,10 @@ Finally when comparing effort between the groups we did not found a significant 
 
 Misschien hier paper dingen gebruiken? Hoe we het ook in het assignment hebben gedaan?
 
-
+|   Dutch       | A             | B              | Total      |
+| ------------- |:-------------:| --------------:| -----------
+| 0             | 5             | 7              | 12         |  
+| 1             | 25            | 22             | 47         | 
  
 
 
