@@ -32,11 +32,13 @@ Misschien hier paper dingen gebruiken? Hoe we het ook in het assignment hebben g
 | 0             | 1             | 39             | 12         |  
 | 1             | 6             | 30             | 36         | 
  
+(table of comparing conditional group with the unconditional group)
 
+|   Version 2   | Obs           | Rank sum       | Expected   |     
+| ------------- |:-------------:| --------------:| -----------
+| 0             | 39            | 1210           | 1365       |  
+| 1             | 30            | 1205           | 1050       | 
+| combined      | 69            | 2415           | 2415       |
 
+(table of measuring effort if their is any difference)
 
-
-|               | Conditional   | Unconditional  |
-| ------------- |:-------------:| --------------:|
-| Yes           | 20            | $1600          |
-| No            | centered      |   $12          |
