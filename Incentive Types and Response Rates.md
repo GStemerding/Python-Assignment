@@ -8,9 +8,21 @@
 ##Research Question##
 Do Response rates differ by using different types of incentives?
 
+## _Motivation_
+Surveys are an important source for firms to discover information about consumers. This information can therefore be used to improve their current products in a way that the demands of these consumers will be fulfilled more efficiently. In this assignment the incentive types conditional, unconditional, large uncertain payments and small certain payments will be discussed. According to the experiment of [Castiglioni, Pforr & Krieger (2008)](https://ojs.ub.uni-konstanz.de/srm/article/view/599/2137) response rates in panel data will be higher when unconditional incentives are used than when conditional incentives are used. [Singer et al (1999)](http://www.jos.nu/Articles/article.asp) found that monetary incentives are more effective than non-monetary incentives in increasing response rates. However on the trade-off between large uncertain and small certain payments is little literature. Therefore we designed an experiment where we investigate the four different types and their effect on response rates. We wanted to combine also the conditional-unconditional trade-off in a one-shot way instead of panel data. Moreover it is important to know the level of effort exerted by the respondents because if a firm is using open-questions for example more effort will most likely increase the value of an answer. As we can see in the next section we also included a way to compare monetary incentives with non-monetary incentives in a one-shot way. 
+
+## _Method_
+We conducted a randomized controlled field experiment to discover if an unconditional gift is better than a conditional gift and if a small certain payment is better than a large uncertain payment in a one-shot way. We therefore created a questionnaire which consisted of questions about the opinions of certain facilities of the University of Tilburg. The level of effort was measured by counting the amount of words people used to give an answer on the open questions. To reduce selection bias all our respondents were students who were sitting behind a computer in the library of Tilburg University.
+
+As already noted we use four different groups in our experiment. Group A represented the small certain payment group since we asked the respondents if they wanted to fill in our survey for 50 eurocents. Group B represented the large uncertain payment group because we asked the respondents if they wanted to fill in the survey for a chance (2,5%) of winning 20 euro's. Group C represented the conditional group since we asked the respondnets if they wanted to fill in our survey for a chocolate letter. Group D represented the unconditional group since we asked if they wanted a chocolate letter and afterwards, regardless their answer, we asked them if they wanted to fill in our survey. 
+
+To reduce selection bias even further we maintained the same interviewer for every group. Moreover we made sure that no selection bias arised from different places or different days since we contact the control and treatment groups on the same day and based on the part of the library they were sitting. 
+
+## _Answer_
 
 
 
+ 
 
 
 
