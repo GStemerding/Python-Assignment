@@ -19,7 +19,7 @@ We found a significant p-value of 0.04798 when comparing conditional and uncondi
 * There is no interviewer bias since the same interviewer is used in all treatment and control groups
 * There is a positive linear relationship between response rates and the value of the incentive [Yu & Cooper (1983)](http://www.jstor.org/stable/pdf/3151410.pdf).
 * Giving an incentive is always better than no incentive because a monetary incentive is better than a non-monetary incentive [Singer et al (1999)](http://www.jos.nu/Articles/article.asp) and a non-monetary incentive is better than no incentive [Willimack et al (1995)](http://poq.oxfordjournals.org/content/59/1/78.short). 
-* Our incentives have a such a value that they affect our respondents
+* Our incentives have such a value that they affect our respondents
 * Their is no selection bias since we conducted the experiment on the same location and on the same day.
 * People tend to be risk-averse and women are more risk-averse than men [Dohmen et al (2005)](http://ftp.iza.org/dp1730.pdf)
 * A threshold of 0.05 is used in all our tests to indicate whether a difference or effect is significant
